@@ -1,3 +1,0 @@
-echo "Welcome to Project School 2.O" > file.txt
-echo "CyberSecurity Session" >> file.txt
-nslookup google.com >> file.txt
