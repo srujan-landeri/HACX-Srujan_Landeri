@@ -1,3 +1,5 @@
+Command: sudo nmap -O kmit.in 
+
 Nmap scan report for kmit.in (206.54.190.30)
 Host is up (0.00031s latency).
 rDNS record for 206.54.190.30: cpanel9.c.fozzy.com
