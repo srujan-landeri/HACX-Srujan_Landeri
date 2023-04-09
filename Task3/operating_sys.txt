@@ -1,0 +1,49 @@
+Nmap scan report for kmit.in (206.54.190.30)
+Host is up (0.00031s latency).
+rDNS record for 206.54.190.30: cpanel9.c.fozzy.com
+Not shown: 964 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+21/tcp    open   ftp
+22/tcp    open   ssh
+80/tcp    open   http
+110/tcp   open   pop3
+143/tcp   open   imap
+443/tcp   open   https
+465/tcp   open   smtps
+554/tcp   open   rtsp
+587/tcp   open   submission
+993/tcp   open   imaps
+995/tcp   open   pop3s
+1723/tcp  open   pptp
+8080/tcp  closed http-proxy
+32772/tcp closed sometimes-rpc7
+32773/tcp closed sometimes-rpc9
+32774/tcp closed sometimes-rpc11
+32780/tcp closed sometimes-rpc23
+33354/tcp closed unknown
+34572/tcp closed unknown
+40911/tcp closed unknown
+41511/tcp closed unknown
+42510/tcp closed caerpc
+44443/tcp closed coldfusion-auth
+44501/tcp closed unknown
+49152/tcp closed unknown
+49158/tcp closed unknown
+49163/tcp closed unknown
+50002/tcp closed iiimsf
+50003/tcp closed unknown
+50636/tcp closed unknown
+52673/tcp closed unknown
+54045/tcp closed unknown
+55055/tcp closed unknown
+55600/tcp closed unknown
+57294/tcp closed unknown
+57797/tcp closed unknown
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 161.76 seconds
